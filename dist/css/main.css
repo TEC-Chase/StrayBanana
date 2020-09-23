@@ -1,0 +1,532 @@
+h1, h2, h3 {
+  padding: 1rem 0; }
+
+.fa-trophy {
+  color: gold; }
+
+.fa-medal {
+  color: silver; }
+
+.fa-award {
+  color: #cd7f32; }
+
+.fa-discord {
+  color: #ffffff; }
+
+a.discord:hover {
+  border-color: #7289da !important; }
+
+.sneakers a {
+  color: maroon; }
+
+.sneakerless a {
+  color: mediumblue; }
+
+.main {
+  background: url("../images/maps/title.png") no-repeat center center/cover fixed; }
+
+.map01 {
+  background: url("../images/maps/map01.png") no-repeat center center/cover fixed; }
+
+.map02 {
+  background: url("../images/maps/map02.png") no-repeat center center/cover fixed; }
+
+.map03 {
+  background: url("../images/maps/map03.png") no-repeat center center/cover fixed; }
+
+.map04 {
+  background: url("../images/maps/map04.png") no-repeat center center/cover fixed; }
+
+.map05 {
+  background: url("../images/maps/map05.png") no-repeat center center/cover fixed; }
+
+.map06 {
+  background: url("../images/maps/map06.png") no-repeat center center/cover fixed; }
+
+.map07 {
+  background: url("../images/maps/map07.png") no-repeat center center/cover fixed; }
+
+.map08 {
+  background: url("../images/maps/map08.png") no-repeat center center/cover fixed; }
+
+.map09 {
+  background: url("../images/maps/map09.png") no-repeat center center/cover fixed; }
+
+.map10 {
+  background: url("../images/maps/map10.png") no-repeat center center/cover fixed; }
+
+.map11 {
+  background: url("../images/maps/map11.png") no-repeat center center/cover fixed; }
+
+.map12 {
+  background: url("../images/maps/map12.png") no-repeat center center/cover fixed; }
+
+.map13 {
+  background: url("../images/maps/map13.png") no-repeat center center/cover fixed; }
+
+.map14 {
+  background: url("../images/maps/map14.png") no-repeat center center/cover fixed; }
+
+.map15 {
+  background: url("../images/maps/map15.png") no-repeat center center/cover fixed; }
+
+.map16 {
+  background: url("../images/maps/map16.png") no-repeat center center/cover fixed; }
+
+.map17 {
+  background: url("../images/maps/map17.png") no-repeat center center/cover fixed; }
+
+.map18 {
+  background: url("../images/maps/map18.png") no-repeat center center/cover fixed; }
+
+.map19 {
+  background: url("../images/maps/map19.png") no-repeat center center/cover fixed; }
+
+.map20 {
+  background: url("../images/maps/map20.png") no-repeat center center/cover fixed; }
+
+.map21 {
+  background: url("../images/maps/map21.png") no-repeat center center/cover fixed; }
+
+.map22 {
+  background: url("../images/maps/map22.png") no-repeat center center/cover fixed; }
+
+.map23 {
+  background: url("../images/maps/map23.png") no-repeat center center/cover fixed; }
+
+.map24 {
+  background: url("../images/maps/map24.png") no-repeat center center/cover fixed; }
+
+.map25 {
+  background: url("../images/maps/map25.png") no-repeat center center/cover fixed; }
+
+.map26 {
+  background: url("../images/maps/map26.png") no-repeat center center/cover fixed; }
+
+.map27 {
+  background: url("../images/maps/map27.png") no-repeat center center/cover fixed; }
+
+.map28 {
+  background: url("../images/maps/map28.png") no-repeat center center/cover fixed; }
+
+.map29 {
+  background: url("../images/maps/map29.png") no-repeat center center/cover fixed; }
+
+.map30 {
+  background: url("../images/maps/map30.png") no-repeat center center/cover fixed; }
+
+.map31 {
+  background: url("../images/maps/map31.png") no-repeat center center/cover fixed; }
+
+.map32 {
+  background: url("../images/maps/map32.png") no-repeat center center/cover fixed; }
+
+.map33 {
+  background: url("../images/maps/map33.png") no-repeat center center/cover fixed; }
+
+.map34 {
+  background: url("../images/maps/map34.png") no-repeat center center/cover fixed; }
+
+.map35 {
+  background: url("../images/maps/map35.png") no-repeat center center/cover fixed; }
+
+.map36 {
+  background: url("../images/maps/map36.png") no-repeat center center/cover fixed; }
+
+.map37 {
+  background: url("../images/maps/map37.png") no-repeat center center/cover fixed; }
+
+.map38 {
+  background: url("../images/maps/map38.png") no-repeat center center/cover fixed; }
+
+.map39 {
+  background: url("../images/maps/map39.png") no-repeat center center/cover fixed; }
+
+.map40 {
+  background: url("../images/maps/map40.png") no-repeat center center/cover fixed; }
+
+.map41 {
+  background: url("../images/maps/map41.png") no-repeat center center/cover fixed; }
+
+.map42 {
+  background: url("../images/maps/map42.png") no-repeat center center/cover fixed; }
+
+.map43 {
+  background: url("../images/maps/map43.png") no-repeat center center/cover fixed; }
+
+.map44 {
+  background: url("../images/maps/map44.png") no-repeat center center/cover fixed; }
+
+.map45 {
+  background: url("../images/maps/map45.png") no-repeat center center/cover fixed; }
+
+.map46 {
+  background: url("../images/maps/map46.png") no-repeat center center/cover fixed; }
+
+.map47 {
+  background: url("../images/maps/map47.png") no-repeat center center/cover fixed; }
+
+.map48 {
+  background: url("../images/maps/map48.png") no-repeat center center/cover fixed; }
+
+.map49 {
+  background: url("../images/maps/map49.png") no-repeat center center/cover fixed; }
+
+.map50 {
+  background: url("../images/maps/map50.png") no-repeat center center/cover fixed; }
+
+.map51 {
+  background: url("../images/maps/map51.png") no-repeat center center/cover fixed; }
+
+.map52 {
+  background: url("../images/maps/map52.png") no-repeat center center/cover fixed; }
+
+.map53 {
+  background: url("../images/maps/map53.png") no-repeat center center/cover fixed; }
+
+.map54 {
+  background: url("../images/maps/map54.png") no-repeat center center/cover fixed; }
+
+.map55 {
+  background: url("../images/maps/map55.png") no-repeat center center/cover fixed; }
+
+.map56 {
+  background: url("../images/maps/map56.png") no-repeat center center/cover fixed; }
+
+.map57 {
+  background: url("../images/maps/map57.png") no-repeat center center/cover fixed; }
+
+.map58 {
+  background: url("../images/maps/map58.png") no-repeat center center/cover fixed; }
+
+.map59 {
+  background: url("../images/maps/map59.png") no-repeat center center/cover fixed; }
+
+.map60 {
+  background: url("../images/maps/map60.png") no-repeat center center/cover fixed; }
+
+.maph0 {
+  background: url("../images/maps/maph0.png") no-repeat center center/cover fixed; }
+
+.maph1 {
+  background: url("../images/maps/maph1.png") no-repeat center center/cover fixed; }
+
+.maph2 {
+  background: url("../images/maps/maph2.png") no-repeat center center/cover fixed; }
+
+.maph3 {
+  background: url("../images/maps/maph3.png") no-repeat center center/cover fixed; }
+
+.maph4 {
+  background: url("../images/maps/maph4.png") no-repeat center center/cover fixed; }
+
+.maph5 {
+  background: url("../images/maps/maph5.png") no-repeat center center/cover fixed; }
+
+.maph6 {
+  background: url("../images/maps/maph6.png") no-repeat center center/cover fixed; }
+
+.maph7 {
+  background: url("../images/maps/maph7.png") no-repeat center center/cover fixed; }
+
+.maph8 {
+  background: url("../images/maps/maph8.png") no-repeat center center/cover fixed; }
+
+.maph9 {
+  background: url("../images/maps/maph9.png") no-repeat center center/cover fixed; }
+
+.mapha {
+  background: url("../images/maps/mapha.png") no-repeat center center/cover fixed; }
+
+.maphb {
+  background: url("../images/maps/maphb.png") no-repeat center center/cover fixed; }
+
+.maphc {
+  background: url("../images/maps/maphc.png") no-repeat center center/cover fixed; }
+
+.maphd {
+  background: url("../images/maps/maphd.png") no-repeat center center/cover fixed; }
+
+.maphh {
+  background: url("../images/maps/maphh.png") no-repeat center center/cover fixed; }
+
+.grid-replay {
+  display: grid;
+  align-items: center;
+  grid-template-columns: repeat(6, 0.75fr);
+  justify-content: center;
+  width: 900px; }
+
+.item-title, .item-title-sneakers, .item-title-sneakerless, .item-top, .item-place, .item-char, .item-map {
+  margin-top: 0.5rem;
+  background: #f4f4f4;
+  font-size: 1.25rem;
+  font-weight: bold;
+  text-align: center;
+  opacity: 0.9; }
+
+.item-title {
+  padding: 1rem;
+  grid-column: span 6;
+  text-decoration: underline 1px #000;
+  font-size: 2rem;
+  border-radius: 5px; }
+  .item-title-sneakers {
+    padding: 1rem;
+    text-transform: uppercase;
+    font-size: 1.75rem;
+    color: #fff;
+    background: red;
+    grid-column: span 6;
+    border-radius: 5px; }
+  .item-title-sneakerless {
+    padding: 1rem;
+    text-transform: uppercase;
+    font-size: 1.75rem;
+    color: #fff;
+    background: steelblue;
+    grid-column: span 6;
+    border-radius: 5px; }
+
+.item-top {
+  padding: 0.25rem;
+  background: #4f4f4f;
+  color: #fff; }
+
+.item-place p {
+  padding: 2rem 0; }
+
+.item-char {
+  align-self: stretch; }
+  .item-char img {
+    margin-top: 0.5rem;
+    width: 70px;
+    opacity: 1; }
+
+.item-map {
+  align-self: stretch; }
+  .item-map a {
+    padding: 0;
+    margin: 0 1rem; }
+  .item-map img {
+    margin-top: 0.5rem;
+    width: 120px;
+    opacity: 1; }
+
+.maps {
+  display: grid;
+  align-items: center;
+  justify-content: space-between;
+  grid-template-columns: repeat(5, 1fr);
+  max-width: 920px; }
+  .maps .header {
+    grid-column: span 5;
+    padding: .5rem 2rem;
+    margin-top: 1rem;
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    background: #4f4f4f;
+    color: #fff;
+    border-radius: 5px; }
+  .maps a {
+    display: inline-block;
+    padding: .5rem;
+    margin: 0;
+    color: #fff;
+    text-align: center; }
+    .maps a img {
+      filter: grayscale(1);
+      width: 100%;
+      height: 100%;
+      color: #fff; }
+      .maps a img:hover {
+        animation: animate1 0.5s forwards ease-in-out; }
+
+@keyframes animate1 {
+  from {
+    filter: grayscale(1); }
+  to {
+    filter: grayscale(0); } }
+
+.maps.index {
+  grid-template-columns: repeat(3, 1fr);
+  width: 640px; }
+  .maps.index .header {
+    text-align: center;
+    grid-column: span 3; }
+
+.grid-replay.index {
+  grid-template-columns: repeat(4, 1fr);
+  width: 640px; }
+  .grid-replay.index .item-title-sneakers {
+    grid-column: span 4; }
+  .grid-replay.index .item-title-sneakerless {
+    grid-column: span 4; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: Helvetica, sans-serif;
+  margin-bottom: 1rem; }
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 2rem; }
+
+li {
+  list-style: none; }
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  .container.index {
+    flex-direction: column; }
+
+#main-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background: #1f1abc;
+  opacity: 0.9; }
+  #main-nav ul {
+    display: flex; }
+  #main-nav li {
+    padding: 1rem 1rem 0 1rem; }
+  #main-nav p {
+    margin-bottom: 0.25rem;
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase; }
+  #main-nav a {
+    display: inline-block;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0.25rem;
+    font-size: 1.3rem;
+    color: #fff;
+    text-transform: uppercase;
+    border-bottom: 3px transparent solid; }
+    #main-nav a:hover {
+      border-color: gold; }
+    #main-nav a.current {
+      border-color: gold; }
+
+.index-header {
+  text-align: center;
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  background: #f4f4f4;
+  color: #333;
+  opacity: 0.9;
+  border-radius: 5px; }
+  .index-header a {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    color: #7289da; }
+
+@media (max-width: 1366px) {
+  .maps {
+    grid-template-columns: repeat(5, 0.5fr);
+    max-width: 700px; }
+    .maps a img {
+      margin: 0.5rem;
+      filter: grayscale(0); }
+    .maps .header {
+      grid-column: span 5;
+      padding: 0.5rem 3rem;
+      margin: 1rem 0; } }
+
+@media (max-width: 1024px) {
+  .maps {
+    grid-template-columns: repeat(3, 0.5fr);
+    max-width: 700px; }
+    .maps a img {
+      margin: 0.5rem;
+      filter: grayscale(0); }
+    .maps .header {
+      grid-column: span 3;
+      padding: 0.5rem 3rem;
+      margin: 1rem 0; } }
+
+@media (max-width: 768px) {
+  #main-nav {
+    flex-direction: column; }
+    #main-nav li {
+      padding: 0.5rem; }
+  .container {
+    display: flex;
+    justify-content: center;
+    margin: 0.5rem; }
+  .maps {
+    grid-template-columns: repeat(2, 0.5fr);
+    max-width: 700px; }
+    .maps a img {
+      margin: 0.5rem;
+      filter: grayscale(0); }
+    .maps .header {
+      grid-column: span 2;
+      padding: 0.5rem 3rem;
+      margin: 1rem 0; }
+  .grid-replay {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: repeat(2, 1fr); }
+  .item-title, .item-title-sneakers, .item-title-sneakerless, .item-top, .item-place, .item-char, .item-map {
+    margin: 0;
+    font-size: 1.25rem;
+    font-weight: bold;
+    text-align: center;
+    opacity: 0.9; }
+  .item-title {
+    grid-column: span 2;
+    text-decoration: underline 1px #333;
+    font-size: 1.75rem; }
+    .item-title-sneakers {
+      font-size: 1.5rem;
+      margin: 0.5rem 0;
+      grid-column: span 2; }
+    .item-title-sneakerless {
+      margin: 0.5rem 0;
+      font-size: 1.5rem;
+      grid-column: span 2; }
+  .item-top {
+    padding: 0.25rem; }
+  .item-place p {
+    padding: 2rem 0; }
+  .item-place.top {
+    margin-top: 0.5rem; }
+  .item-map {
+    align-self: stretch; }
+    .item-map a {
+      padding: 0;
+      margin: 0; }
+    .item-map.top {
+      margin-top: 0.5rem; }
+    .item-map img {
+      margin-top: 0.5rem;
+      width: 120px;
+      opacity: 1; }
+  .maps.index {
+    grid-template-columns: repeat(2, 1fr);
+    width: 100%; }
+    .maps.index .header {
+      text-align: center;
+      grid-column: span 2;
+      font-size: 1.75rem; }
+  .grid-replay.index {
+    grid-template-columns: repeat(2, 1fr);
+    width: 99%; }
+    .grid-replay.index .item-title-sneakers {
+      grid-column: span 2; }
+    .grid-replay.index .item-title-sneakerless {
+      grid-column: span 2; } }

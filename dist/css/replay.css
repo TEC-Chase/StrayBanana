@@ -1,0 +1,62 @@
+.grid-replay {
+  display: grid;
+  align-items: center;
+  grid-template-columns: repeat(6, 0.75fr);
+  justify-content: center;
+  width: 900px; }
+
+.item-title, .item-title-sneakers, .item-title-sneakerless, .item-top, .item-place, .item-char, .item-map {
+  margin-top: 0.5rem;
+  background: #f4f4f4;
+  font-size: 1.25rem;
+  font-weight: bold;
+  text-align: center;
+  opacity: 0.9; }
+
+.item-title {
+  padding: 1rem;
+  grid-column: span 6;
+  text-decoration: underline 1px #000;
+  font-size: 2rem;
+  border-radius: 5px; }
+  .item-title-sneakers {
+    padding: 1rem;
+    text-transform: uppercase;
+    font-size: 1.75rem;
+    color: #fff;
+    background: red;
+    grid-column: span 6;
+    border-radius: 5px; }
+  .item-title-sneakerless {
+    padding: 1rem;
+    text-transform: uppercase;
+    font-size: 1.75rem;
+    color: #fff;
+    background: steelblue;
+    grid-column: span 6;
+    border-radius: 5px; }
+
+.item-top {
+  padding: 0.25rem;
+  background: #4f4f4f;
+  color: #fff; }
+
+.item-place p {
+  padding: 2rem 0; }
+
+.item-char {
+  align-self: stretch; }
+  .item-char img {
+    margin-top: 0.5rem;
+    width: 70px;
+    opacity: 1; }
+
+.item-map {
+  align-self: stretch; }
+  .item-map a {
+    padding: 0;
+    margin: 0 1rem; }
+  .item-map img {
+    margin-top: 0.5rem;
+    width: 120px;
+    opacity: 1; }

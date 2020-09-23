@@ -1,0 +1,14 @@
+.maps.index {
+  grid-template-columns: repeat(3, 1fr);
+  width: 640px; }
+  .maps.index .header {
+    text-align: center;
+    grid-column: span 3; }
+
+.grid-replay.index {
+  grid-template-columns: repeat(4, 1fr);
+  width: 640px; }
+  .grid-replay.index .item-title-sneakers {
+    grid-column: span 4; }
+  .grid-replay.index .item-title-sneakerless {
+    grid-column: span 4; }

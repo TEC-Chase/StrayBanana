@@ -1,0 +1,91 @@
+@media (max-width: 1366px) {
+  .maps {
+    grid-template-columns: repeat(5, 0.5fr);
+    max-width: 700px; }
+    .maps a img {
+      margin: 0.5rem;
+      filter: grayscale(0); }
+    .maps .header {
+      grid-column: span 5;
+      padding: 0.5rem 3rem;
+      margin: 1rem 0; } }
+
+@media (max-width: 1024px) {
+  .maps {
+    grid-template-columns: repeat(3, 0.5fr);
+    max-width: 700px; }
+    .maps a img {
+      margin: 0.5rem;
+      filter: grayscale(0); }
+    .maps .header {
+      grid-column: span 3;
+      padding: 0.5rem 3rem;
+      margin: 1rem 0; } }
+
+@media (max-width: 768px) {
+  #main-nav {
+    flex-direction: column; }
+    #main-nav li {
+      padding: 0.5rem; }
+  .container {
+    display: flex;
+    justify-content: center;
+    margin: 0.5rem; }
+  .maps {
+    grid-template-columns: repeat(2, 0.5fr);
+    max-width: 700px; }
+    .maps a img {
+      margin: 0.5rem;
+      filter: grayscale(0); }
+    .maps .header {
+      grid-column: span 2;
+      padding: 0.5rem 3rem;
+      margin: 1rem 0; }
+  .grid-replay {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: repeat(2, 1fr); }
+  .item-title {
+    grid-column: span 2;
+    text-decoration: underline 1px #333;
+    font-size: 1.75rem; }
+    .item-title-sneakers {
+      font-size: 1.5rem;
+      margin: 0.5rem 0;
+      grid-column: span 2; }
+    .item-title-sneakerless {
+      margin: 0.5rem 0;
+      font-size: 1.5rem;
+      grid-column: span 2; }
+  .item-top {
+    padding: 0.25rem; }
+  .item-place p {
+    padding: 2rem 0; }
+  .item-place.top {
+    margin-top: 0.5rem; }
+  .item-map {
+    align-self: stretch; }
+    .item-map a {
+      padding: 0;
+      margin: 0; }
+    .item-map.top {
+      margin-top: 0.5rem; }
+    .item-map img {
+      margin-top: 0.5rem;
+      width: 120px;
+      opacity: 1; }
+  .maps.index {
+    grid-template-columns: repeat(2, 1fr);
+    width: 100%; }
+    .maps.index .header {
+      text-align: center;
+      grid-column: span 2;
+      font-size: 1.75rem; }
+  .grid-replay.index {
+    grid-template-columns: repeat(2, 1fr);
+    width: 99%; }
+    .grid-replay.index .item-title-sneakers {
+      grid-column: span 2; }
+    .grid-replay.index .item-title-sneakerless {
+      grid-column: span 2; } }
