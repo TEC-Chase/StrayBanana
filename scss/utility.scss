@@ -1,0 +1,33 @@
+h1, h2, h3 {
+  padding: 1rem 0;
+}
+
+.fa {
+  &-trophy {
+    color: gold;
+  }
+
+  &-medal {
+    color: silver;
+  }
+
+  &-award {
+    color: #cd7f32;
+  }
+
+  &-discord {
+    color: #ffffff;
+  }
+}
+
+a.discord:hover {
+  border-color: #7289da !important;
+}
+
+.sneakers a {
+  color: maroon;
+}
+
+.sneakerless a {
+  color: mediumblue;
+}

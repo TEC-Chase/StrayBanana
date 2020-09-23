@@ -1,0 +1,167 @@
+@media (max-width: 1366px) {
+  .maps {
+    grid-template-columns: repeat(5, 0.5fr);
+    max-width: 700px;
+
+    a {
+      img {
+        margin: 0.5rem;
+        filter: grayscale(0);
+      }
+    }
+
+    .header {
+      grid-column: span 5;
+      padding: 0.5rem 3rem;
+      margin: 1rem 0;
+    }
+  }
+}
+
+@media (max-width: 1024px) {
+  .maps {
+    grid-template-columns: repeat(3, 0.5fr);
+    max-width: 700px;
+
+    a {
+      img {
+        margin: 0.5rem;
+        filter: grayscale(0);
+      }
+    }
+
+    .header {
+      grid-column: span 3;
+      padding: 0.5rem 3rem;
+      margin: 1rem 0;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  #main-nav {
+    flex-direction: column;
+
+    li {
+      padding: 0.5rem;
+    }
+  }
+
+  .container {
+    display: flex;
+    justify-content: center;
+    margin: 0.5rem;
+  }
+
+  .maps {
+    grid-template-columns: repeat(2, 0.5fr);
+    max-width: 700px;
+
+    a {
+      img {
+        margin: 0.5rem;
+        filter: grayscale(0);
+      }
+    }
+
+    .header {
+      grid-column: span 2;
+      padding: 0.5rem 3rem;
+      margin: 1rem 0;
+    }
+  }
+
+  .grid-replay {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  %item-shared {
+    margin: 0;
+    font-size: 1.25rem;
+    font-weight: bold;
+    text-align: center;
+    opacity: 0.9;
+  }
+
+  .item {
+    &-title {
+      grid-column: span 2;
+      text-decoration: underline 1px #333;
+      font-size: 1.75rem;
+
+      &-sneakers {
+        font-size: 1.5rem;
+        margin: 0.5rem 0;
+        grid-column: span 2;
+      }
+
+      &-sneakerless {
+        margin: 0.5rem 0;
+        font-size: 1.5rem;
+        grid-column: span 2;
+      }
+    }
+
+    &-top {
+      padding: 0.25rem;
+    }
+
+    &-place {
+      p {
+        padding: 2rem 0;
+      }
+      &.top {
+        margin-top: 0.5rem;
+      }
+    }
+
+    &-map {
+      align-self: stretch;
+
+      a {
+        padding: 0;
+        margin: 0;
+      }
+
+      &.top {
+        margin-top: 0.5rem;
+      }
+
+      img {
+        margin-top: 0.5rem;
+        width: 120px;
+        opacity: 1;
+      }
+    }
+  }
+
+  .maps.index {
+    grid-template-columns: repeat(2, 1fr);
+    width: 100%;
+
+    .header {
+      text-align: center;
+      grid-column: span 2;
+      font-size: 1.75rem;
+    }
+  }
+
+  .grid-replay.index {
+    grid-template-columns: repeat(2, 1fr);
+    width: 99%;
+
+    .item {
+      &-title {
+        &-sneakers {
+          grid-column: span 2;
+        }
+        &-sneakerless {
+          grid-column: span 2;
+        }
+      }
+    }
+  }
+}

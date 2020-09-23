@@ -1,0 +1,90 @@
+.grid-replay {
+  display: grid;
+  align-items: center;
+  grid-template-columns: repeat(6, 0.75fr);
+  justify-content: center;
+  width: 900px;
+}
+
+%item-shared {
+  margin-top: 0.5rem;
+  background: #f4f4f4;
+  font-size: 1.25rem;
+  font-weight: bold;
+  text-align: center;
+  opacity: 0.9;
+}
+
+.item {
+  &-title {
+    @extend %item-shared;
+    padding: 1rem;
+    grid-column: span 6;
+    text-decoration: underline 1px #000;
+    font-size: 2rem;
+    border-radius: 5px;
+
+    &-sneakers {
+      @extend %item-shared;
+      padding: 1rem;
+      text-transform: uppercase;
+      font-size: 1.75rem;
+      color: #fff;
+      background: red;
+      grid-column: span 6;
+      border-radius: 5px;
+    }
+
+    &-sneakerless {
+      @extend %item-shared;
+      padding: 1rem;
+      text-transform: uppercase;
+      font-size: 1.75rem;
+      color: #fff;
+      background: steelblue;
+      grid-column: span 6;
+      border-radius: 5px;
+    }
+  }
+
+  &-top {
+    @extend %item-shared;
+    padding: 0.25rem;
+    background: #4f4f4f;
+    color: #fff;
+  }
+
+  &-place {
+    @extend %item-shared;
+    p {
+      padding: 2rem 0;
+    }
+  }
+
+  &-char {
+    @extend %item-shared;
+    align-self: stretch;
+
+    img {
+      margin-top: 0.5rem;
+      width: 70px;
+      opacity: 1;
+    }
+  }
+
+  &-map {
+    @extend %item-shared;
+    align-self: stretch;
+
+    a {
+      padding: 0;
+      margin: 0 1rem;
+    }
+
+    img {
+      margin-top: 0.5rem;
+      width: 120px;
+      opacity: 1;
+    }
+  }
+}

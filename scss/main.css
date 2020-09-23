@@ -1,0 +1,212 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  background: url("../images/maps/map32.png") no-repeat center center/cover fixed;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 2rem;
+}
+
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.grid {
+  display: -ms-grid;
+  display: grid;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-grid-rows: (0.5fr)[6];
+      grid-template-rows: repeat(6, 0.5fr);
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  max-width: 1080px;
+}
+
+.item-title, .item-title-sneakers, .item-title-sneakerless, .item-title-springs, .item-top, .item-place, .item-tag, .item-char, .item-char-laps {
+  margin-top: 1rem;
+  background: #f4f4f4;
+  font-size: 1.3rem;
+  font-weight: bold;
+  text-align: center;
+  opacity: 0.9;
+}
+
+.item-title {
+  padding: 1rem;
+  grid-column: span 6;
+  -webkit-text-decoration: underline 1px #000;
+          text-decoration: underline 1px #000;
+  font-size: 2rem;
+}
+
+.item-title-sneakers {
+  padding: 1rem;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  background: red;
+  grid-column: span 6;
+}
+
+.item-title-sneakerless {
+  padding: 1rem;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  background: steelblue;
+  grid-column: span 6;
+}
+
+.item-title-springs {
+  padding: 1rem;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  background: orange;
+  grid-column: span 6;
+}
+
+.item-top {
+  padding: 0.25rem;
+  background: #4f4f4f;
+  color: #fff;
+}
+
+.item-place p {
+  padding: 2rem 0;
+}
+
+.item-tag p {
+  padding: 2rem 0;
+}
+
+.item-char {
+  -ms-flex-item-align: stretch;
+      -ms-grid-row-align: stretch;
+      align-self: stretch;
+}
+
+.item-char img {
+  margin-top: 0.5rem;
+  width: 70px;
+  opacity: 1;
+}
+
+.item-char-laps {
+  padding: 0.75rem;
+  margin-top: 1rem;
+}
+
+.sneakers a {
+  color: maroon;
+}
+
+.sneakerless a {
+  color: mediumblue;
+}
+
+.springs a {
+  color: #a45210;
+}
+
+@media (max-width: 768px) {
+  body {
+    margin: 0 .45rem;
+  }
+  .container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin: 0.5rem;
+  }
+  .grid {
+    display: -ms-grid;
+    display: grid;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -ms-grid-rows: (0.5fr)[2];
+        grid-template-rows: repeat(2, 0.5fr);
+    width: 700px;
+  }
+  .item-title, .item-title-sneakers, .item-title-sneakerless, .item-title-springs, .item-top, .item-place, .item-tag, .item-char, .item-char-laps {
+    margin: 0.25rem 0;
+    margin-top: 0;
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-align: center;
+    opacity: 0.9;
+  }
+  .item-title {
+    padding: 1rem;
+    grid-column: span 2;
+    -webkit-text-decoration: underline 1px #000;
+            text-decoration: underline 1px #000;
+    font-size: 2rem;
+  }
+  .item-title-sneakers {
+    padding: 1rem;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    background: red;
+    grid-column: span 2;
+  }
+  .item-title-sneakerless {
+    padding: 1rem;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    background: steelblue;
+    grid-column: span 2;
+  }
+  .item-title-springs {
+    padding: 1rem;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    background: orange;
+    grid-column: span 2;
+  }
+  .item-top {
+    padding: 0.25rem;
+    background: #4f4f4f;
+    color: #fff;
+  }
+  .item-place p {
+    padding: 2rem 0;
+  }
+  .item-tag p {
+    padding: 2rem 0;
+  }
+  .item-char {
+    -ms-flex-item-align: stretch;
+        -ms-grid-row-align: stretch;
+        align-self: stretch;
+  }
+  .item-char img {
+    margin-top: 0.5rem;
+    width: 70px;
+    opacity: 1;
+  }
+  .item-char-laps {
+    padding: 0.75rem;
+    margin-top: 1rem;
+  }
+}
+/*# sourceMappingURL=main.css.map */
