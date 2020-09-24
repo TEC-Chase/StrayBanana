@@ -35,7 +35,7 @@
       padding: 0.5rem; }
   .maps {
     grid-template-columns: repeat(2, 1fr);
-    width: 100%; }
+    width: 95%; }
     .maps a img {
       margin: 0;
       filter: grayscale(0); }
@@ -49,7 +49,7 @@
     align-items: center;
     justify-content: center;
     grid-template-columns: repeat(2, 1fr);
-    width: 100%; }
+    width: 95%; }
   .item-title {
     grid-column: span 2;
     text-decoration: underline 1px #333;
@@ -81,15 +81,17 @@
       opacity: 1; }
   .maps.index {
     grid-template-columns: repeat(2, 1fr);
-    width: 100%; }
+    width: 95%; }
     .maps.index .header {
       text-align: center;
       grid-column: span 2;
       font-size: 1.75rem; }
   .grid-replay.index {
     grid-template-columns: repeat(2, 1fr);
-    width: 100%; }
+    width: 95%; }
     .grid-replay.index .item-title-sneakers {
       grid-column: span 2; }
     .grid-replay.index .item-title-sneakerless {
-      grid-column: span 2; } }
+      grid-column: span 2; }
+  .index-header {
+    width: 90%; } }

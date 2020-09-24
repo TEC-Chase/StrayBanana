@@ -57,7 +57,7 @@
 
   .maps {
     grid-template-columns: repeat(2, 1fr);
-    width: 100%;
+    width: 95%;
 
     a {
       img {
@@ -79,7 +79,7 @@
     align-items: center;
     justify-content: center;
     grid-template-columns: repeat(2, 1fr);
-    width: 100%;
+    width: 95%;
   }
 
   %item-shared {
@@ -144,7 +144,7 @@
 
   .maps.index {
     grid-template-columns: repeat(2, 1fr);
-    width: 100%;
+    width: 95%;
 
     .header {
       text-align: center;
@@ -155,7 +155,7 @@
 
   .grid-replay.index {
     grid-template-columns: repeat(2, 1fr);
-    width: 100%;
+    width: 95%;
 
     .item {
       &-title {
@@ -167,5 +167,9 @@
         }
       }
     }
+  }
+
+  .index-header {
+    width: 90%;
   }
 }
