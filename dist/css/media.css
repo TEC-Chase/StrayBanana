@@ -33,20 +33,17 @@
     flex-direction: column; }
     #main-nav li {
       padding: 0.5rem; }
-  .container {
-    display: flex;
-    justify-content: center;
-    margin: .5rem; }
   .maps {
-    grid-template-columns: repeat(2, 0.5fr);
-    max-width: 700px; }
+    grid-template-columns: repeat(2, 1fr);
+    width: 100%; }
     .maps a img {
-      margin: 0.5rem;
+      margin: 0;
       filter: grayscale(0); }
     .maps .header {
+      text-align: center;
       grid-column: span 2;
       padding: 0.5rem 3rem;
-      margin: 1rem 0; }
+      margin: 1rem 0.5rem; }
   .grid-replay {
     display: grid;
     align-items: center;
@@ -91,7 +88,7 @@
       font-size: 1.75rem; }
   .grid-replay.index {
     grid-template-columns: repeat(2, 1fr);
-    width: 99%; }
+    width: 100%; }
     .grid-replay.index .item-title-sneakers {
       grid-column: span 2; }
     .grid-replay.index .item-title-sneakerless {

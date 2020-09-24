@@ -28,11 +28,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map01 {
@@ -41,11 +45,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map02 {
@@ -54,11 +62,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map03 {
@@ -67,11 +79,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map04 {
@@ -80,11 +96,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map05 {
@@ -93,11 +113,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map06 {
@@ -106,11 +130,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map07 {
@@ -119,11 +147,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map08 {
@@ -132,11 +164,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map09 {
@@ -145,11 +181,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map10 {
@@ -158,11 +198,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map11 {
@@ -171,11 +215,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map12 {
@@ -184,11 +232,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map13 {
@@ -197,11 +249,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map14 {
@@ -210,11 +266,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map15 {
@@ -223,11 +283,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map16 {
@@ -236,11 +300,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map17 {
@@ -249,11 +317,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map18 {
@@ -262,11 +334,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map19 {
@@ -275,11 +351,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map20 {
@@ -288,11 +368,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map21 {
@@ -301,11 +385,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map22 {
@@ -314,11 +402,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map23 {
@@ -327,11 +419,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map24 {
@@ -340,11 +436,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map25 {
@@ -353,11 +453,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map26 {
@@ -366,11 +470,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map27 {
@@ -379,11 +487,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map28 {
@@ -392,11 +504,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map29 {
@@ -405,11 +521,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map30 {
@@ -418,11 +538,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map31 {
@@ -431,11 +555,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map32 {
@@ -444,11 +572,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map33 {
@@ -457,11 +589,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map34 {
@@ -470,11 +606,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map35 {
@@ -483,11 +623,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map36 {
@@ -496,11 +640,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map37 {
@@ -509,11 +657,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map38 {
@@ -522,11 +674,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map39 {
@@ -535,11 +691,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map40 {
@@ -548,11 +708,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map41 {
@@ -561,11 +725,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map42 {
@@ -574,11 +742,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map43 {
@@ -587,11 +759,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map44 {
@@ -600,11 +776,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map45 {
@@ -613,11 +793,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map46 {
@@ -626,11 +810,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map47 {
@@ -639,11 +827,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map48 {
@@ -652,11 +844,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map49 {
@@ -665,11 +861,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map50 {
@@ -678,11 +878,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map51 {
@@ -691,11 +895,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map52 {
@@ -704,11 +912,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map53 {
@@ -717,11 +929,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map54 {
@@ -730,11 +946,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map55 {
@@ -743,11 +963,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map56 {
@@ -756,11 +980,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map57 {
@@ -769,11 +997,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map58 {
@@ -782,11 +1014,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map59 {
@@ -795,11 +1031,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map60 {
@@ -808,11 +1048,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maph0 {
@@ -821,11 +1065,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maph1 {
@@ -834,11 +1082,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maph2 {
@@ -847,11 +1099,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maph3 {
@@ -860,11 +1116,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maph4 {
@@ -873,11 +1133,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maph5 {
@@ -886,11 +1150,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maph6 {
@@ -899,11 +1167,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maph7 {
@@ -912,11 +1184,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maph8 {
@@ -925,11 +1201,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maph9 {
@@ -938,11 +1218,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .mapha {
@@ -951,11 +1235,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maphb {
@@ -964,11 +1252,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maphc {
@@ -977,11 +1269,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maphd {
@@ -990,11 +1286,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maphh {
@@ -1003,11 +1303,15 @@ a.discord:hover {
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .grid-replay {
@@ -1078,7 +1382,7 @@ a.discord:hover {
   align-items: center;
   justify-content: space-between;
   grid-template-columns: repeat(5, 1fr);
-  width: 60%; }
+  width: 75%; }
   .maps .header {
     grid-column: span 5;
     padding: .5rem 2rem;
@@ -1111,14 +1415,14 @@ a.discord:hover {
 
 .maps.index {
   grid-template-columns: repeat(3, 1fr);
-  width: 800px; }
+  width: 75%; }
   .maps.index .header {
     text-align: center;
     grid-column: span 3; }
 
 .grid-replay.index {
   grid-template-columns: repeat(4, 1fr);
-  width: 800px; }
+  width: 75%; }
   .grid-replay.index .item-title-sneakers {
     grid-column: span 4; }
   .grid-replay.index .item-title-sneakerless {
@@ -1148,10 +1452,8 @@ li {
   display: flex;
   justify-content: center;
   align-items: center;
-  max-width: 100%;
+  width: 100%;
   flex-direction: column; }
-  .container.index {
-    flex-direction: column; }
 
 #main-nav {
   display: flex;
@@ -1190,7 +1492,7 @@ li {
   margin: 1rem 0;
   padding: 0.5rem 1rem;
   background: #f4f4f4;
-  width: 1080px;
+  width: 50%;
   color: #333;
   opacity: 0.9;
   border-radius: 5px; }
@@ -1235,20 +1537,17 @@ li {
     flex-direction: column; }
     #main-nav li {
       padding: 0.5rem; }
-  .container {
-    display: flex;
-    justify-content: center;
-    margin: .5rem; }
   .maps {
-    grid-template-columns: repeat(2, 0.5fr);
-    max-width: 700px; }
+    grid-template-columns: repeat(2, 1fr);
+    width: 100%; }
     .maps a img {
-      margin: 0.5rem;
+      margin: 0;
       filter: grayscale(0); }
     .maps .header {
+      text-align: center;
       grid-column: span 2;
       padding: 0.5rem 3rem;
-      margin: 1rem 0; }
+      margin: 1rem 0.5rem; }
   .grid-replay {
     display: grid;
     align-items: center;
@@ -1299,7 +1598,7 @@ li {
       font-size: 1.75rem; }
   .grid-replay.index {
     grid-template-columns: repeat(2, 1fr);
-    width: 99%; }
+    width: 100%; }
     .grid-replay.index .item-title-sneakers {
       grid-column: span 2; }
     .grid-replay.index .item-title-sneakerless {

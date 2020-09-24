@@ -1,6 +1,6 @@
 .maps.index {
   grid-template-columns: repeat(3, 1fr);
-  width: 800px;
+  width: 75%;
 
   .header {
     text-align: center;
@@ -10,7 +10,7 @@
 
 .grid-replay.index {
   grid-template-columns: repeat(4, 1fr);
-  width: 800px;
+  width: 75%;
 
   .item {
     &-title {

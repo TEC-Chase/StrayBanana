@@ -33,12 +33,8 @@ li {
   display: flex;
   justify-content: center;
   align-items: center;
-  max-width: 100%;
+  width: 100%;
   flex-direction: column;
-
-  &.index {
-    flex-direction: column;
-  }
 }
 
 // Main Nav
@@ -92,7 +88,7 @@ li {
   margin: 1rem 0;
   padding: 0.5rem 1rem;
   background: #f4f4f4;
-  width: 1080px;
+  width: 50%;
   color: #333;
   opacity: 0.9;
   border-radius: 5px;

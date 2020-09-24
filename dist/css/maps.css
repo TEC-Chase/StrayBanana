@@ -4,11 +4,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map01 {
@@ -17,11 +21,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map02 {
@@ -30,11 +38,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map03 {
@@ -43,11 +55,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map04 {
@@ -56,11 +72,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map05 {
@@ -69,11 +89,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map06 {
@@ -82,11 +106,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map07 {
@@ -95,11 +123,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map08 {
@@ -108,11 +140,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map09 {
@@ -121,11 +157,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map10 {
@@ -134,11 +174,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map11 {
@@ -147,11 +191,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map12 {
@@ -160,11 +208,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map13 {
@@ -173,11 +225,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map14 {
@@ -186,11 +242,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map15 {
@@ -199,11 +259,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map16 {
@@ -212,11 +276,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map17 {
@@ -225,11 +293,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map18 {
@@ -238,11 +310,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map19 {
@@ -251,11 +327,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map20 {
@@ -264,11 +344,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map21 {
@@ -277,11 +361,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map22 {
@@ -290,11 +378,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map23 {
@@ -303,11 +395,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map24 {
@@ -316,11 +412,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map25 {
@@ -329,11 +429,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map26 {
@@ -342,11 +446,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map27 {
@@ -355,11 +463,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map28 {
@@ -368,11 +480,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map29 {
@@ -381,11 +497,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map30 {
@@ -394,11 +514,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map31 {
@@ -407,11 +531,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map32 {
@@ -420,11 +548,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map33 {
@@ -433,11 +565,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map34 {
@@ -446,11 +582,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map35 {
@@ -459,11 +599,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map36 {
@@ -472,11 +616,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map37 {
@@ -485,11 +633,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map38 {
@@ -498,11 +650,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map39 {
@@ -511,11 +667,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map40 {
@@ -524,11 +684,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map41 {
@@ -537,11 +701,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map42 {
@@ -550,11 +718,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map43 {
@@ -563,11 +735,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map44 {
@@ -576,11 +752,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map45 {
@@ -589,11 +769,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map46 {
@@ -602,11 +786,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map47 {
@@ -615,11 +803,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map48 {
@@ -628,11 +820,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map49 {
@@ -641,11 +837,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map50 {
@@ -654,11 +854,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map51 {
@@ -667,11 +871,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map52 {
@@ -680,11 +888,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map53 {
@@ -693,11 +905,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map54 {
@@ -706,11 +922,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map55 {
@@ -719,11 +939,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map56 {
@@ -732,11 +956,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map57 {
@@ -745,11 +973,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map58 {
@@ -758,11 +990,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map59 {
@@ -771,11 +1007,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .map60 {
@@ -784,11 +1024,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maph0 {
@@ -797,11 +1041,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maph1 {
@@ -810,11 +1058,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maph2 {
@@ -823,11 +1075,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maph3 {
@@ -836,11 +1092,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maph4 {
@@ -849,11 +1109,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maph5 {
@@ -862,11 +1126,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maph6 {
@@ -875,11 +1143,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maph7 {
@@ -888,11 +1160,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maph8 {
@@ -901,11 +1177,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maph9 {
@@ -914,11 +1194,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .mapha {
@@ -927,11 +1211,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maphb {
@@ -940,11 +1228,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maphc {
@@ -953,11 +1245,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maphd {
@@ -966,11 +1262,15 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
 
 .maphh {
@@ -979,9 +1279,13 @@
   background-position: center;
   background-repeat: no-repeat;
   position: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  filter: blur(0.25rem);
+  filter: blur(0.2rem);
   z-index: -1; }
