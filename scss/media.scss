@@ -1,7 +1,7 @@
 @media (max-width: 1366px) {
   .maps {
     grid-template-columns: repeat(5, 0.5fr);
-    max-width: 700px;
+    max-width: 100%;
 
     a {
       img {
@@ -21,7 +21,7 @@
 @media (max-width: 1024px) {
   .maps {
     grid-template-columns: repeat(3, 0.5fr);
-    max-width: 700px;
+    max-width: 100%;
 
     a {
       img {
@@ -35,6 +35,15 @@
       padding: 0.5rem 3rem;
       margin: 1rem 0;
     }
+  }
+
+  .grid-replay {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: repeat(2, 1fr);
+    width: 100%;
+
   }
 }
 
@@ -50,7 +59,7 @@
   .container {
     display: flex;
     justify-content: center;
-    margin: 0.5rem;
+    margin: .5rem;
   }
 
   .maps {
@@ -76,6 +85,8 @@
     align-items: center;
     justify-content: center;
     grid-template-columns: repeat(2, 1fr);
+    width: 100%;
+
   }
 
   %item-shared {

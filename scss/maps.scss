@@ -1,5 +1,5 @@
 @mixin map {
-  background-position: center;
+  background-position: center/cover;
   background-repeat: no-repeat;
   position: fixed;
   top: 0;
@@ -9,8 +9,6 @@
   filter: blur(0.25rem);
   z-index: -1;
 }
-
-
 
 .title {
   background: url("../images/maps/title.png");
