@@ -1,5 +1,6 @@
 @mixin map {
-  background-position: center/cover;
+  background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   position: fixed;
   top: 0;
