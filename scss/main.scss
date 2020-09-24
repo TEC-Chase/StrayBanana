@@ -11,7 +11,12 @@
 
 body {
   font-family: Helvetica, sans-serif;
-  margin-bottom: 1rem;
+  background: #000;
+}
+
+.parent {
+  background: rgba(0, 0, 0, 0.25);
+  min-height: 100vh;
 }
 
 a {
@@ -28,12 +33,13 @@ li {
   display: flex;
   justify-content: center;
   align-items: center;
+  max-width: 1920px;
+  flex-direction: column;
 
   &.index {
     flex-direction: column;
   }
 }
-
 
 // Main Nav
 #main-nav {
@@ -86,6 +92,7 @@ li {
   margin: 1rem 0;
   padding: 0.5rem 1rem;
   background: #f4f4f4;
+  width: 1080px;
   color: #333;
   opacity: 0.9;
   border-radius: 5px;

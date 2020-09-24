@@ -1,9 +1,10 @@
 .grid-replay {
   display: grid;
   align-items: center;
-  grid-template-columns: repeat(6, 0.75fr);
   justify-content: center;
-  width: 900px;
+  grid-template-columns: repeat(6, 1fr);
+  width: 1280px;
+
 }
 
 %item-shared {
@@ -30,7 +31,7 @@
       text-transform: uppercase;
       font-size: 1.75rem;
       color: #fff;
-      background: red;
+      background: #c51d1d;
       grid-column: span 6;
       border-radius: 5px;
     }
@@ -41,7 +42,7 @@
       text-transform: uppercase;
       font-size: 1.75rem;
       color: #fff;
-      background: steelblue;
+      background: #4682b4;
       grid-column: span 6;
       border-radius: 5px;
     }
