@@ -1,16 +1,28 @@
+.map-header {
+  margin-top: 0.5rem;
+  background: #f4f4f4;
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+  opacity: 0.9;
+  border-radius: 5px;
+  align-self: center;
+  width: 98%;
+}
+
 .grid-replay {
+  padding: 1rem;
   display: grid;
   align-items: center;
   justify-content: center;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   width: 75%;
-
 }
 
 %item-shared {
   margin-top: 0.5rem;
   background: #f4f4f4;
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-weight: bold;
   text-align: center;
   opacity: 0.9;
@@ -20,7 +32,7 @@
   &-title {
     @extend %item-shared;
     padding: 1rem;
-    grid-column: span 6;
+    grid-column: span 5;
     text-decoration: underline 1px #000;
     font-size: 2rem;
     border-radius: 5px;
@@ -32,7 +44,7 @@
       font-size: 1.75rem;
       color: #fff;
       background: #c51d1d;
-      grid-column: span 6;
+      grid-column: span 5;
       border-radius: 5px;
     }
 
@@ -43,7 +55,7 @@
       font-size: 1.75rem;
       color: #fff;
       background: #4682b4;
-      grid-column: span 6;
+      grid-column: span 5;
       border-radius: 5px;
     }
   }
@@ -64,10 +76,10 @@
 
   &-char {
     @extend %item-shared;
-    align-self: stretch;
+    align-self: center;
 
     img {
-      margin-top: 0.5rem;
+      margin: 0.29rem 0;
       width: 70px;
       opacity: 1;
     }
@@ -75,16 +87,16 @@
 
   &-map {
     @extend %item-shared;
-    align-self: stretch;
+    align-self: center;
 
     a {
       padding: 0;
-      margin: 0 1rem;
     }
 
     img {
-      margin-top: 0.5rem;
-      width: 120px;
+      padding: .5rem 0;
+
+      width: 100px;
       opacity: 1;
     }
   }

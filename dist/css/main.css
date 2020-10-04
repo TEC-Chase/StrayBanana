@@ -13,6 +13,15 @@ h1, h2, h3 {
 .fa-discord {
   color: #ffffff; }
 
+.trophy {
+  color: gold; }
+
+.medal {
+  color: silver; }
+
+.award {
+  color: #cd7f32; }
+
 a.discord:hover {
   border-color: #7289da !important; }
 
@@ -1314,24 +1323,36 @@ a.discord:hover {
   filter: blur(0.2rem);
   z-index: -1; }
 
+.map-header {
+  margin-top: 0.5rem;
+  background: #f4f4f4;
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+  opacity: 0.9;
+  border-radius: 5px;
+  align-self: center;
+  width: 98%; }
+
 .grid-replay {
+  padding: 1rem;
   display: grid;
   align-items: center;
   justify-content: center;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   width: 75%; }
 
 .item-title, .item-title-sneakers, .item-title-sneakerless, .item-top, .item-place, .item-char, .item-map {
   margin-top: 0.5rem;
   background: #f4f4f4;
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-weight: bold;
   text-align: center;
   opacity: 0.9; }
 
 .item-title {
   padding: 1rem;
-  grid-column: span 6;
+  grid-column: span 5;
   text-decoration: underline 1px #000;
   font-size: 2rem;
   border-radius: 5px; }
@@ -1341,7 +1362,7 @@ a.discord:hover {
     font-size: 1.75rem;
     color: #fff;
     background: #c51d1d;
-    grid-column: span 6;
+    grid-column: span 5;
     border-radius: 5px; }
   .item-title-sneakerless {
     padding: 1rem;
@@ -1349,7 +1370,7 @@ a.discord:hover {
     font-size: 1.75rem;
     color: #fff;
     background: #4682b4;
-    grid-column: span 6;
+    grid-column: span 5;
     border-radius: 5px; }
 
 .item-top {
@@ -1361,22 +1382,24 @@ a.discord:hover {
   padding: 2rem 0; }
 
 .item-char {
-  align-self: stretch; }
+  align-self: center; }
   .item-char img {
-    margin-top: 0.5rem;
+    margin: 0.29rem 0;
     width: 70px;
     opacity: 1; }
 
 .item-map {
-  align-self: stretch; }
+  align-self: center; }
   .item-map a {
-    padding: 0;
-    margin: 0 1rem; }
+    padding: 0; }
   .item-map img {
-    margin-top: 0.5rem;
-    width: 120px;
+    padding: .5rem 0;
+    width: 100px;
     opacity: 1; }
 
+/*
+  This is designed to be for the level select grid featured in 'index.html' & 'maps.html'
+*/
 .maps {
   display: grid;
   align-items: center;
@@ -1451,9 +1474,12 @@ li {
 .container {
   display: flex;
   justify-content: center;
-  align-items: center;
-  width: 100%;
-  flex-direction: column; }
+  align-items: flex-start;
+  flex-direction: row;
+  margin: .5rem; }
+  .container.index {
+    flex-direction: column;
+    align-items: center; }
 
 #main-nav {
   display: flex;
@@ -1514,7 +1540,7 @@ li {
       padding: 0.5rem 3rem;
       margin: 1rem 0; } }
 
-@media (max-width: 1024px) {
+@media (max-width: 1080px) {
   .maps {
     grid-template-columns: repeat(3, 0.5fr);
     max-width: 100%; }
@@ -1525,12 +1551,17 @@ li {
       grid-column: span 3;
       padding: 0.5rem 3rem;
       margin: 1rem 0; }
+  .container {
+    flex-direction: column;
+    align-items: center; }
+  .map-header {
+    width: 75%; }
   .grid-replay {
     display: grid;
     align-items: center;
     justify-content: center;
     grid-template-columns: repeat(2, 1fr);
-    width: 100%; } }
+    width: 75%; } }
 
 @media (max-width: 768px) {
   #main-nav {
@@ -1548,6 +1579,8 @@ li {
       grid-column: span 2;
       padding: 0.5rem 3rem;
       margin: 1rem 0.5rem; }
+  .map-header {
+    width: 95%; }
   .grid-replay {
     display: grid;
     align-items: center;
@@ -1556,10 +1589,8 @@ li {
     width: 95%; }
   .item-title, .item-title-sneakers, .item-title-sneakerless, .item-top, .item-place, .item-char, .item-map {
     margin: 0;
-    font-size: 1.25rem;
-    font-weight: bold;
-    text-align: center;
-    opacity: 0.9; }
+    font-size: 1rem;
+    text-align: center; }
   .item-title {
     grid-column: span 2;
     text-decoration: underline 1px #333;
@@ -1574,10 +1605,14 @@ li {
       grid-column: span 2; }
   .item-top {
     padding: 0.25rem; }
+    .item-top.download {
+      grid-column: span 2; }
   .item-place p {
     padding: 2rem 0; }
   .item-place.top {
     margin-top: 0.5rem; }
+  .item-place.download {
+    grid-column: span 2; }
   .item-map {
     align-self: stretch; }
     .item-map a {
@@ -1586,8 +1621,7 @@ li {
     .item-map.top {
       margin-top: 0.5rem; }
     .item-map img {
-      margin-top: 0.5rem;
-      width: 120px;
+      width: 100px;
       opacity: 1; }
   .maps.index {
     grid-template-columns: repeat(2, 1fr);
