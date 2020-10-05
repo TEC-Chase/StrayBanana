@@ -1335,7 +1335,7 @@ a.discord:hover {
   width: 98%; }
 
 .grid-replay {
-  padding: 1rem;
+  padding: 0.5rem;
   display: grid;
   align-items: center;
   justify-content: center;
@@ -1393,7 +1393,7 @@ a.discord:hover {
   .item-map a {
     padding: 0; }
   .item-map img {
-    padding: .5rem 0;
+    padding: 0.5rem 0;
     width: 100px;
     opacity: 1; }
 
