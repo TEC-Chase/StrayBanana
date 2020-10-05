@@ -1332,15 +1332,15 @@ a.discord:hover {
   opacity: 0.9;
   border-radius: 5px;
   align-self: center;
-  width: 98%; }
+  width: 100%; }
 
 .grid-replay {
   padding: 0.5rem;
   display: grid;
   align-items: center;
   justify-content: center;
-  grid-template-columns: repeat(5, 1fr);
-  width: 75%; }
+  grid-template-columns: 1fr 2fr 1fr 1fr 1fr;
+  width: 100%; }
 
 .item-title, .item-title-sneakers, .item-title-sneakerless, .item-top, .item-place, .item-char, .item-map {
   margin-top: 0.5rem;
@@ -1444,7 +1444,9 @@ a.discord:hover {
     grid-column: span 3; }
 
 .grid-replay.index {
-  grid-template-columns: repeat(4, 1fr);
+  align-items: center;
+  justify-content: center;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   width: 75%; }
   .grid-replay.index .item-title-sneakers {
     grid-column: span 4; }
@@ -1555,13 +1557,13 @@ li {
     flex-direction: column;
     align-items: center; }
   .map-header {
-    width: 75%; }
+    width: 95%; }
   .grid-replay {
     display: grid;
     align-items: center;
     justify-content: center;
-    grid-template-columns: repeat(2, 1fr);
-    width: 75%; } }
+    grid-template-columns: 1fr 2fr 1fr 1fr 1fr;
+    width: 95%; } }
 
 @media (max-width: 768px) {
   #main-nav {

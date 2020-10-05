@@ -7,15 +7,15 @@
   opacity: 0.9;
   border-radius: 5px;
   align-self: center;
-  width: 98%; }
+  width: 100%; }
 
 .grid-replay {
   padding: 0.5rem;
   display: grid;
   align-items: center;
   justify-content: center;
-  grid-template-columns: repeat(5, 1fr);
-  width: 75%; }
+  grid-template-columns: 1fr 2fr 1fr 1fr 1fr;
+  width: 100%; }
 
 .item-title, .item-title-sneakers, .item-title-sneakerless, .item-top, .item-place, .item-char, .item-map {
   margin-top: 0.5rem;

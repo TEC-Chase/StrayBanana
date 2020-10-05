@@ -25,13 +25,13 @@
     flex-direction: column;
     align-items: center; }
   .map-header {
-    width: 75%; }
+    width: 95%; }
   .grid-replay {
     display: grid;
     align-items: center;
     justify-content: center;
-    grid-template-columns: repeat(2, 1fr);
-    width: 75%; } }
+    grid-template-columns: 1fr 2fr 1fr 1fr 1fr;
+    width: 95%; } }
 
 @media (max-width: 768px) {
   #main-nav {

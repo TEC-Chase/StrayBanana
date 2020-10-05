@@ -9,7 +9,9 @@
 }
 
 .grid-replay.index {
-  grid-template-columns: repeat(4, 1fr);
+  align-items: center;
+  justify-content: center;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   width: 75%;
 
   .item {
