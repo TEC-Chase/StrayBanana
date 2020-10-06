@@ -1,6 +1,6 @@
 .maps.index {
   grid-template-columns: repeat(3, 1fr);
-  width: 75%;
+  width: 50%;
 
   .header {
     text-align: center;
@@ -12,7 +12,7 @@
   align-items: center;
   justify-content: center;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  width: 75%;
+  width: 40%;
 
   .item {
     &-title {

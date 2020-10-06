@@ -8,7 +8,11 @@
     .maps .header {
       grid-column: span 5;
       padding: 0.5rem 3rem;
-      margin: 1rem 0; } }
+      margin: 1rem 0; }
+  .grid-replay.index {
+    width: 80%; }
+  .maps.index {
+    width: 80%; } }
 
 @media (max-width: 1080px) {
   .maps {
@@ -31,7 +35,11 @@
     align-items: center;
     justify-content: center;
     grid-template-columns: 1fr 2fr 1fr 1fr 1fr;
-    width: 95%; } }
+    width: 95%; }
+  .grid-replay.index {
+    width: 80%; }
+  .maps.index {
+    width: 80%; } }
 
 @media (max-width: 768px) {
   #main-nav {

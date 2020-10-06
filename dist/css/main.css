@@ -1438,7 +1438,7 @@ a.discord:hover {
 
 .maps.index {
   grid-template-columns: repeat(3, 1fr);
-  width: 75%; }
+  width: 50%; }
   .maps.index .header {
     text-align: center;
     grid-column: span 3; }
@@ -1447,7 +1447,7 @@ a.discord:hover {
   align-items: center;
   justify-content: center;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  width: 75%; }
+  width: 40%; }
   .grid-replay.index .item-title-sneakers {
     grid-column: span 4; }
   .grid-replay.index .item-title-sneakerless {
@@ -1540,7 +1540,11 @@ li {
     .maps .header {
       grid-column: span 5;
       padding: 0.5rem 3rem;
-      margin: 1rem 0; } }
+      margin: 1rem 0; }
+  .grid-replay.index {
+    width: 80%; }
+  .maps.index {
+    width: 80%; } }
 
 @media (max-width: 1080px) {
   .maps {
@@ -1563,7 +1567,11 @@ li {
     align-items: center;
     justify-content: center;
     grid-template-columns: 1fr 2fr 1fr 1fr 1fr;
-    width: 95%; } }
+    width: 95%; }
+  .grid-replay.index {
+    width: 80%; }
+  .maps.index {
+    width: 80%; } }
 
 @media (max-width: 768px) {
   #main-nav {
